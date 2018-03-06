@@ -9,7 +9,7 @@ keywords:
 ---
 
 
-test
+
 # Accounts on HoloLens
 
 During initial HoloLens setup, users are required to sign in with the account they want to use on the device. This account can be either a consumer Microsoft account or an enterprise account that has been configured in Azure Active Directory (AAD) or Active Directory Federation Services (ADFS).
